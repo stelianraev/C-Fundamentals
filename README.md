@@ -1,5 +1,14 @@
-# Basic Syntax, Conditional Statements and Loops
-Softuni Exercises
+# C# Fundamentals - SoftUni
 
-All the conditions you can find in the docx file
+Basic Syntax,
+Conditional Statements,
+Loops,
+Data Types and Variables,
+Arrays,
+Methods,
+Lists,
+Object and Classes,
+Associative Arrays,
+Text Processing,
+Regular Expressions
 
