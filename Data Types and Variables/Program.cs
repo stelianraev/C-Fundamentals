@@ -9,8 +9,7 @@ namespace Data_Types_and_Variables
     public class Program
     {
         public static void Main()
-        {
-            PokeMon();
+        {       
 
         }
 
